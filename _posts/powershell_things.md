@@ -4,7 +4,7 @@
 > https://learn.microsoft.com/en-us/powershell/scripting/learn/ps101/00-introduction?view=powershell-7.5
 
 ### Intro
-Hello, i am kulwanth(alias ikki) a computer science enthusiast and student i been using powershell all the time for last 3-4 months.
+Hello, i am kulwanth(alias ikki) a computer science enthusiast and student i been using powershell all the time for many months.
 It made more productive with my work here are some very few commands that i use:
 
 ### 1. cd
