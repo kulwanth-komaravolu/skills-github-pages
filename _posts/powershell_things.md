@@ -87,5 +87,7 @@ It made more productive with my work here are some very few commands that i use:
   Just for fun __DO IT!__
   Also you can try repalcing __Write-Host "`nByee..Byee..";__ with
 
-    Write-Host "`nByee..Byee.." -ForegroundColor Magenta;
+    clear;1..5 | % {
+    Write-Host "..$_"; sleep -second 0.65;
+    };Write-Host "`nByee..Byee.." -ForegroundColor Magenta;sleep -second 0.65;shutdown /s /t 0;
   OOH.. It looks better with some little color
